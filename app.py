@@ -2,6 +2,7 @@ from transformers import pipeline
 from datasets import load_dataset
 import soundfile as sf
 import torch
+import streamlit as st
 
 st.title('Speech Generator')
 

@@ -1,4 +1,6 @@
 streamlit
 transformers
 torch
-einops
+datasets
+sentencepiece
+soundfile
